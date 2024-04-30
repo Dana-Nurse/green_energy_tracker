@@ -135,3 +135,4 @@ BEGIN
     DELETE FROM EnergyProduction WHERE production_date < DATE_SUB(NOW(), INTERVAL 1 YEAR);
 END;
 
+
