@@ -2,7 +2,7 @@
 
 **Introduction**
 
-As an environmentalist, sustainability is close to my heart. I believe that we all have a responsibility to protect our planet for future generations. That's why I strive to live a sustainable lifestyle and promote eco-friendly practices whenever possible. Inspired by my passion for environmental conservation, I chose to base my Code First Girls Data and SQL project on the topic of green energy tracking.
+As an environmentalist, sustainability is close to my heart. I believe that we all have a responsibility to protect our planet for future generations. That's why I strive to live a sustainable lifestyle and promote eco-friendly practices whenever possible. Inspired by my passion for environmental conservation, I chose to base my project on the topic of green energy tracking.
 
 **Project Overview**
 
@@ -31,4 +31,4 @@ The Green Energy Tracker is a database project designed to monitor and track ren
 
 **Acknowledgments**
 
-I would like to express my gratitude to Code First Girls for providing the opportunity to work on this project and expand my skills in data management and SQL. Special thanks to the instructors for their guidance and support. 
+I would like to express my gratitude to Code First Girls for providing the opportunity to do the data management and SQL course. Special thanks to the instructors for their guidance and support. 
